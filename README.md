@@ -27,5 +27,5 @@ Sou responsável por manter e resolver problemas utilizando principalmente Linux
 
 <p align="center">
 <a href="https://www.linkedin.com/in/andre-tecco/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/andretecco" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social"></a>
+<a href="https://twitter.com/andretecco" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fandretecco"></a>
 </p>
