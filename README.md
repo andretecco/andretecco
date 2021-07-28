@@ -9,6 +9,7 @@
 
 <div>
  <p>
+Olá sejam bem vindos! :D
 Gosto de tomar uma cerveja nas horas vagas, ouvir música e descansar.
 Sou responsável por manter e resolver problemas utilizando principalmente Linux, docker, K8s, Swarm e Ansible.
 </p>
@@ -24,7 +25,7 @@ Sou responsável por manter e resolver problemas utilizando principalmente Linux
 
 ### Github Stats
 
-[![André Tecco GitHub Stats](https://github-readme-stats.vercel.app/api?username=andretecco&show_icons=true&count_private=true)](https://github.com/andretecco)
+[![André GitHub Stats](https://github-readme-stats.vercel.app/api?username=andretecco&show_icons=true&count_private=true)](https://github.com/andretecco)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/andre-tecco/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
