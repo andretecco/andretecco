@@ -10,9 +10,9 @@ Sou responsável por manter e resolver problemas utilizando principalmente Linux
 
 ### Github Stats
 
-[![André GitHub Stats](https://github-readme-stats.vercel.app/api?username=andretecco&show_icons=true&count_private=true)](https://github.com/andretecco)
+[![André GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andretecco&show_icons=true&count_private=true)](https://github.com/andretecco)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andretecco)](https://github.com/andretecco/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andretecco)](https://github.com/andretecco/github-readme-stats)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/andre-tecco/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
