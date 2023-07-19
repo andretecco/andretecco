@@ -19,4 +19,4 @@ Sou responsável por manter e resolver problemas utilizando principalmente Linux
 <a href="https://twitter.com/andretecco" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-![snake gif](https://github.com/andretecco/andretecco/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/andretecco/andretecco/raw/output/github-contribution-grid-snake.svg)
