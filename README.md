@@ -3,8 +3,6 @@
 <div>
  <p>
 Olá sejam bem vindos! :D
-Gosto de tomar uma cerveja nas horas vagas, ouvir música e descansar.
-Sou responsável por manter e resolver problemas utilizando principalmente Linux, docker, K8s, Swarm e Ansible.
 </p>
 </div>
 
