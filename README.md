@@ -8,7 +8,7 @@ Olá sejam bem vindos! :D
 
 ### Github Stats
 
-[![André GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andretecco&show_icons=true&count_private=true)](https://github.com/andretecco)
+[![André GitHub Stats](https://github-readme-stats.vercel.app/api?username=andretecco&theme=github_darkshow_icons=true)](https://github.com/andretecco)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andretecco)](https://github.com/andretecco/github-readme-stats)
 
