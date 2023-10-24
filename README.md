@@ -1,4 +1,4 @@
-### Olá 👋 Eu sou André
+### Olá 👋 Eu sou o André
 
 <div>
  <p>
